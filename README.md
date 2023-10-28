@@ -19,8 +19,8 @@ Project Stack:
 • Chrome DevTools
 • Visual Studio Code
 
-<img width="1277" alt="demo_1" src="https://github.com/hubabanyasz/mind-app/assets/75205647/8d086bb3-4f3c-4b3c-aa65-9733d6b871e4">
+<img width="1277" alt="demo_1" src="https://github.com/hubabanyasz/mind-app/assets/75205647/6b633c74-2148-4068-8ba3-b6c3e9395779">
 
-<img width="1277" alt="demo_2" src="https://github.com/hubabanyasz/mind-app/assets/75205647/c2e09007-ea14-41d7-93e5-d32d7827f2d3">
+<img width="1277" alt="demo_2" src="https://github.com/hubabanyasz/mind-app/assets/75205647/1603f449-d251-4eef-982f-51856f1dc491">
 
-<img width="1277" alt="demo_3" src="https://github.com/hubabanyasz/mind-app/assets/75205647/0c062704-64af-4787-b4a1-fb86e0552be5">
+<img width="1277" alt="demo_3" src="https://github.com/hubabanyasz/mind-app/assets/75205647/72519a64-ec9c-4809-89f2-288ae937b0a5">
